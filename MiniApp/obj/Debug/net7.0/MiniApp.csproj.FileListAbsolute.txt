@@ -1,0 +1,14 @@
+C:\Users\hp\Desktop\MiniApp\MiniApp\obj\Debug\net7.0\MiniApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\MiniApp\MiniApp\obj\Debug\net7.0\MiniApp.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\MiniApp\MiniApp\obj\Debug\net7.0\MiniApp.AssemblyInfo.cs
+C:\Users\hp\Desktop\MiniApp\MiniApp\obj\Debug\net7.0\MiniApp.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\MiniApp\MiniApp\bin\Debug\net7.0\MiniApp.exe
+C:\Users\hp\Desktop\MiniApp\MiniApp\bin\Debug\net7.0\MiniApp.deps.json
+C:\Users\hp\Desktop\MiniApp\MiniApp\bin\Debug\net7.0\MiniApp.runtimeconfig.json
+C:\Users\hp\Desktop\MiniApp\MiniApp\bin\Debug\net7.0\MiniApp.dll
+C:\Users\hp\Desktop\MiniApp\MiniApp\bin\Debug\net7.0\MiniApp.pdb
+C:\Users\hp\Desktop\MiniApp\MiniApp\obj\Debug\net7.0\MiniApp.dll
+C:\Users\hp\Desktop\MiniApp\MiniApp\obj\Debug\net7.0\refint\MiniApp.dll
+C:\Users\hp\Desktop\MiniApp\MiniApp\obj\Debug\net7.0\MiniApp.pdb
+C:\Users\hp\Desktop\MiniApp\MiniApp\obj\Debug\net7.0\MiniApp.genruntimeconfig.cache
+C:\Users\hp\Desktop\MiniApp\MiniApp\obj\Debug\net7.0\ref\MiniApp.dll
