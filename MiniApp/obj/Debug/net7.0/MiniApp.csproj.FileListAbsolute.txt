@@ -12,3 +12,4 @@ C:\Users\hp\Desktop\MiniApp\MiniApp\obj\Debug\net7.0\refint\MiniApp.dll
 C:\Users\hp\Desktop\MiniApp\MiniApp\obj\Debug\net7.0\MiniApp.pdb
 C:\Users\hp\Desktop\MiniApp\MiniApp\obj\Debug\net7.0\MiniApp.genruntimeconfig.cache
 C:\Users\hp\Desktop\MiniApp\MiniApp\obj\Debug\net7.0\ref\MiniApp.dll
+C:\Users\hp\Desktop\MiniApp\MiniApp\obj\Debug\net7.0\MiniApp.sourcelink.json

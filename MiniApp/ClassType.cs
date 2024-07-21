@@ -6,9 +6,10 @@ using System.Threading.Tasks;
 
 namespace MiniApp
 {
+
     public enum ClassType
     {
         Backend,
         FrontEnd
-    }
+    }   
 }
